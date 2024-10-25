@@ -12,11 +12,11 @@ bot.onText(/\/start/, (msg) => {
 // Xử lý tin nhắn thông thường
 bot.on('message', (msg) => {
   const chatId = msg.chat.id;
-  const userId = msg.from.id; // Lấy userId từ tin nhắn
-  const firstName = msg.from.first_name; // Lấy firstName từ tin nhắn
+  // const userId = msg.from.id; // Lấy userId từ tin nhắn
+  // const firstName = msg.from.first_name; // Lấy firstName từ tin nhắn   
 
   // Tạo URL với dữ liệu khởi động
-  const gameUrl = `https://b8ef-112-197-35-207.ngrok-free.app/?user_id=${userId}&first_name=${firstName}`;
+  const gameUrl = `https://9234-103-129-191-49.ngrok-free.app`;
   console.log('Game URL:', gameUrl);
   // Tạo bàn phím inline với nút để mở game
   const mainKeyboard = {
