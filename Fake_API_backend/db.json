@@ -76,21 +76,43 @@
       "last_name": "Phạm",
       "auth_date": "1729154282",
       "hash": "0b4582a2a65fcd8c0df9bb4756150bca8b6dd96744c0b193f58b947348d1d64a",
-      "token": 100,
+      "token": 150.25,
       "inviter": "5462815168",
       "id": "dosL1Zp",
       "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-"
     },
     {
+      "id": 598902522,
+      "user_id": 598902522,
+      "first_name": "Hữu Thọ",
+      "last_name": "",
+      "auth_date": "1730187763",
+      "hash": "72e31dfc44e29f989d10f63ec7b3164f91a7a0f5f332323aeda88aac9892b900",
+      "token": 108,
+      "inviter": 5462815168,
+      "address": "0x"
+    },
+    {
+      "id": 8055514826,
+      "user_id": 8055514826,
+      "first_name": "Cam",
+      "last_name": "Chú",
+      "auth_date": "1730188919",
+      "hash": "113e13805127891439800ce61790af04cf59b8b08293834b938f974798b1a03e",
+      "token": 100,
+      "inviter": null,
+      "address": "0x"
+    },
+    {
+      "id": 5462815168,
       "user_id": 5462815168,
       "first_name": "Hieu",
       "last_name": "Bao",
-      "auth_date": "1729650683",
-      "hash": "cd102db7e60168374a5115eafbd8ea977615c994340343686ceff7611572195e",
-      "token": 271,
+      "auth_date": "1730259072",
+      "hash": "e38da436c81b22a578f121086437d2df2f94e98d3dcccd071a5d00ba0935393b",
+      "token": 277,
       "inviter": null,
-      "address": "UQBNt2p94CGbxetW88evdY5zNty6NUhFhRYrTUiYAM7TWpI-",
-      "id": "5hB6TQZ"
+      "address": "0x"
     }
   ],
   "task": [

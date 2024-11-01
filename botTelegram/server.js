@@ -16,7 +16,7 @@ bot.on('message', (msg) => {
   // const firstName = msg.from.first_name; // Lấy firstName từ tin nhắn   
 
   // Tạo URL với dữ liệu khởi động
-  const gameUrl = `https://9234-103-129-191-49.ngrok-free.app`;
+  const gameUrl = `https://tobegame.loca.lt`;
   console.log('Game URL:', gameUrl);
   // Tạo bàn phím inline với nút để mở game
   const mainKeyboard = {
